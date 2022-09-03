@@ -1,10 +1,10 @@
 
 #!/bin/bash
-#KiNg-HaCkInG
-#WhatsApp 00963937376654
-#telegram Hackeer1
-#facebook King.hacking.sy
-#instagram king1hacking
+#KiNg GLITCH 
+#WhatsApp +201007262016
+#telegram https://t.me/hackingglitch
+#facebook King.GLICTH.sy
+#instagram no
 
 red='\e[1;31m'
 green='\e[1;32m'
@@ -31,7 +31,7 @@ sleep 0.3
 echo -e $green "-------------------------------------------------------"
 sleep 0.5
 echo ""
-echo -e $red     "What useing?"
+echo -e $red     "Im GLITCH?"
 echo
 echo -e $green   "1- Linux & Gnuroot"
 echo
