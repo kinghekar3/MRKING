@@ -3,9 +3,9 @@
 #KiNg GLITCH 
 #WhatsApp +201007262016
 #telegram https://t.me/hackingglitch
-#facebook King.GLICTH.sy
+#facebook King.GLItcH.sy
 #instagram no
-
+#GLITCH
 red='\e[1;31m'
 green='\e[1;32m'
 blue='\e[1;34m'
